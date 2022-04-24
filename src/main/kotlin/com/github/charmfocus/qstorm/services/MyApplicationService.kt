@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.charmfocus.qstorm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.charmfocus.qstorm.MyBundle
 
 class MyApplicationService {
 
